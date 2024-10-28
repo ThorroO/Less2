@@ -1,0 +1,5 @@
+Number of characters: 404
+Number of lines: 14
+Number of vowel letters: 154
+Number of consonant letters: 237
+Number of digits: 0
